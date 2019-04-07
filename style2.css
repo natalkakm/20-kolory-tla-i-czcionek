@@ -1,19 +1,15 @@
-body{
-    background-color:darkolivegreen;
-}
-
 header{
-    background-color:crimson;
+    color:darkblue;
 }
 #p1{
-    background-color:lavender;
+    color:silver;
 }
 h2{
-    background-color:royalblue;
+    color:indianred;
 }
 #p2{
-    background-color:salmon;
+    color:thistle;
 }
 ul{
-    background-color:goldenrod;
+    color:fuchsia;
 }
